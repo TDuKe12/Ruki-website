@@ -20,6 +20,10 @@ body {
   color: #333;
 }
 
+.hidden {
+  visibility: hiddne;
+  height: 0;
+}
 /* End Global */
 
 /* Start Navbar */
